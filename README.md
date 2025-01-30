@@ -32,5 +32,10 @@ Tech I am Good At
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width=50 style="display: inline-block" height=50>
 </div>
 
-
+<div style ="margin-top: 10px;"> </div>
+Social Handles
+<div style="display: flex">
+  <a href="https://www.linkedin.com/in/jaideep-grover/">LinkedIn</a>
+  <a href="https://jaideepgrover.blog"></a>
+</div>
 
