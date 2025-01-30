@@ -36,6 +36,16 @@ Tech I am Good At
 Social Handles
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/jaideep-grover/">LinkedIn</a>
-  <a href="https://jaideepgrover.blog"></a>
+  <a href="https://jaideepgrover.blog">Portfolio Website</a>
 </div>
 
+
+<div style="margin-top: 10px">
+Certifications
+<div>
+  <h2>Microsoft Azure Developer Associate-204 ✔️</h2>
+  <h2>AWS Solutions Architect Associate ✔️</h2>
+  <h2>Certified Kubernetes Administrator (Preparing)</h2>
+</div>
+
+</div>
