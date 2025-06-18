@@ -45,7 +45,8 @@ Certifications
 <div>
   <h2>Microsoft Azure Developer Associate-204 ✔️</h2>
   <h2>AWS Solutions Architect Associate ✔️</h2>
-  <h2>Certified Kubernetes Administrator (Preparing)</h2>
+  <h2>HashiCorp Terraform Associate ✔️</h2>
+  <h2>Certified Kubernetes Application Developer (Preparing)</h2>
 </div>
 
 </div>
