@@ -36,7 +36,7 @@ Tech I am Good At
 Social Handles
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/jaideep-grover/">LinkedIn</a>
-  <a href="https://jaideepgrover.blog">Portfolio Website</a>
+  <a href="https://jaideepgrover.dev">Portfolio Website</a>
 </div>
 
 
